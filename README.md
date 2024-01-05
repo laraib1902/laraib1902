@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @laraib1902
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi 👋, I'm Laraib Siddiqui</h1>
+- 👋 Hi, I’m Mohammad Laraib Siddiqui. 
+- 👀 I’m interested in ...web development. 
+- 🌱 I’m currently learning ...different types of programming language<h1 align="center">Hi 👋, I'm Laraib Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laraib1902&label=Profile%20views&color=0e75b6&style=flat" alt="laraib1902" /> </p>
